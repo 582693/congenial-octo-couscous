@@ -1,0 +1,1 @@
+{"name": "vr-decoration-simulator-demo","version": "0.1.0","private": true,"dependencies": {"react": "^18.2.0","react-dom": "^18.2.0","three": "^0.161.0"},"scripts": {"start": "vite","build": "vite build","preview": "vite preview","dev": "vite"},"devDependencies": {"@vitejs/plugin-react": "^4.0.0","vite": "^5.0.0"}}
